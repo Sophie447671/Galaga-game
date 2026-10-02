@@ -8,7 +8,7 @@
 
 - Dès que l'ennemi qui attaque est mort, un autre est choisi aléatoirement parmi ceux en bas de formation pour continuer l'attaque.
 
-- Les BEE se déplacent en zigzg lorsqu'ils attaquent, tandis que les autres se déplacent en ligne droite.
+- Les BEE se déplacent en zigzag lorsqu'ils attaquent, tandis que les autres se déplacent en ligne droite.
 
 - Les ennemis en bas de formation tirent des missiles en fonction des cooldowns définis dans les fichiers de niveaux.
 Pour le niveau 3, le tir est plus régulier. 
